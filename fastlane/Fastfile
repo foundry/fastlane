@@ -1,0 +1,4 @@
+private_lane :test_globals
+    puts 'test_globals success'
+
+end
