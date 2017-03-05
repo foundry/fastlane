@@ -1,4 +1,4 @@
-private_lane :test_globals
+private_lane :test_globals do
     puts 'test_globals success'
 
 end
